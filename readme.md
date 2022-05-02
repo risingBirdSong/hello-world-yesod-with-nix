@@ -1,6 +1,8 @@
 ## Get Started
 1) $> `stack build`
 2) $> `stack run`
+3) navigate in your browser to `http://localhost:3003/helloworld`
+4) you should see: "hello world from yesod"
 
 ## steps i used to make
 1) make a `package.yaml` with the build information
